@@ -15,7 +15,7 @@
 
 - 👨‍💻 My latest projects is available at **[Github](https://github.com/Prasobh-23/ipLoc.git)** , **[npm](https://www.npmjs.com/package/ip-fetch)**
 
-- ⚡ Hobby **I play cricket alot and Coding.**
+- ⚡ Hobby **Playing cricket and Coding.**
 
 <br />
 
