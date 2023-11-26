@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Prasobh Prabhakaran</h1>
 
-> A passionate full-stack developer from God's own country Kerala, India. I liked to code since I was a student. Then I started learning to program. So, here I am sharing what I learned about programming throughout my life.
+> A passionate full-stack developer from India. I liked to code since I was a student. Then I started learning to program. So, here I am sharing what I learned about programming throughout my life.
 > <br />
 
 ## 🙋‍♂️ About Me
