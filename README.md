@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Prasobh Prabhakaran</h1>
 
-> A passionate full-stack developer from God's own country Kerala in India. I liked to code since I was a student. Then I started learning to program. So, here I am sharing what I learned about programming throughout my life.
+> A passionate full-stack developer from God's own country Kerala, India. I liked to code since I was a student. Then I started learning to program. So, here I am sharing what I learned about programming throughout my life.
 > <br />
 
 ## 🙋‍♂️ About Me
 
 - ⛳ I'm from God's own country **[Kerala](https://goo.gl/maps/DY4aBPmVUnpjC7tS8)** , **[India](https://goo.gl/maps/KQwRahyF1EyFzEo77)**
 
-- 🌱 I’m currently learning **nodeJs.**
+- 🌱 I’m currently working as **Nodejs Developer**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
